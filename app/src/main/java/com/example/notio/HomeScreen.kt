@@ -155,7 +155,7 @@ fun HomeScreen(vm: NotificationViewModel = viewModel()) {
         }
     }
 }
-
+//this is to update
 @Preview(showBackground = true)
 @Composable
 fun HomeScreenPreview() {
