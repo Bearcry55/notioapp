@@ -1,0 +1,3 @@
+Notio is a free and open-source offline notification app built with Kotlin and Jetpack Compose.
+It allows you to create, schedule, and manage notifications without internet access. 
+There are no ads, no tracking, and no analytics. Complete privacy
