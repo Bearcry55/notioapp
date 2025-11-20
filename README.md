@@ -12,7 +12,7 @@ A simple and powerful Android app that creates custom notifications and reminds 
 
 ## Download
 
-**[📥 Download APK (v1.0.0)](https://github.com/Bearcry55/notioapp/releases/download/v1.0.0/app-release.zip)**
+**[📥 Download APK (v1.0.0)](https://github.com/Bearcry55/notioapp/releases/tag/v1.0.0)**
 
 *Current Version: 1.0.0*
 
